@@ -1,0 +1,72 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    font-size: small;
+}
+
+div{
+    margin-top: 250px;
+    margin-left: 65px;
+}
+
+ul li:nth-child(1){
+    margin-top: 50px;
+}
+
+ul li:nth-child(2){
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.imagemAtividades{
+    text-align: center;
+    margin-top: -375px;
+    margin-bottom: 90px;
+}
+
+table{
+    margin: 0px auto;
+    text-align: center;    
+}
+
+caption{
+    width: 524px;
+    margin-left: 2px;
+    border: 5px groove lightgray;    
+}
+
+.primeiroPaís, .segundoPaís, .terceiroPaís{
+    border: 5px groove;
+    width: 178px;
+}
+
+a{
+    text-align: center;
+    display: block;
+    margin-top: 100px;
+    padding-bottom: 100px;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
