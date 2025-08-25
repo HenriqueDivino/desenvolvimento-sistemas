@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    text-align: center;
+    top: 20rem;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
